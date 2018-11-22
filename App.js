@@ -1,6 +1,7 @@
 /**
  * @author haoran
  * Time 20181122
+ * @version baseline, fix PropTypes issue
  * A stop watch
  */
 'use strict';
